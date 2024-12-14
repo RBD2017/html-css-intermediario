@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    background-color: goldenrod;
+}
+
+p {
+    background-color: yellow;
+    color: chartreuse;
+}
+
+div{
+    background-color: yellow;
+}
+
+img{
+    height: 400px;
+    width: 850px;
+    
+}
